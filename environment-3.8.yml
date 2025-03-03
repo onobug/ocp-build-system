@@ -7,5 +7,5 @@ dependencies:
   - rapidjson
   - llvmdev=15.0.7
   - clangdev=15.0.7
-  - python=3.10
-  - setuptools>=75
+  - python=3.8
+  - setuptools>=68
