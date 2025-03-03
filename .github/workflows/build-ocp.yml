@@ -24,9 +24,9 @@ jobs:
 
         exclude:
           - use-vtk: ON
-            python-version: 3.12
+            python-version: 3.10
           - use-vtk: ON
-            python-version: 3.13
+            python-version: 3.10
 
         include:
           - os: "macos-13"
